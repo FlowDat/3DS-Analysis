@@ -1,0 +1,16 @@
+solid top
+  facet normal 0.000000 1.000000 -0.000000
+    outer loop
+      vertex 460.799988 115.199997 0.000000
+      vertex 0.000000 115.199997 115.199997
+      vertex 460.799988 115.199997 115.199997
+    endloop
+  endfacet
+  facet normal 0.000000 1.000000 0.000000
+    outer loop
+      vertex 460.799988 115.199997 0.000000
+      vertex 0.000000 115.199997 0.000000
+      vertex 0.000000 115.199997 115.199997
+    endloop
+  endfacet
+endsolid top
