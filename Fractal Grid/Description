@@ -4,3 +4,8 @@ of the beautiful geometric fractal patterns found in nature.
 
 STL files can be opened and viewed in the browser.
 
+PVSM is paraview file and python scripts require different libraries of python
+
+.mat files require matlab.
+
+CSV and DAT files need data reading and analysis tools.
