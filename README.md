@@ -5,4 +5,4 @@ Paraview python library is used to post-process the big data output of DNS resul
 
 Matlab, Paraview, gnuplot, matplotlib, SAS, Excel and Tableau are the main visualization and analysis tools used in this project.
 
-Turbulence intensity, energy cascade, Reynolds stress, velocity mean and standard deviation, coherent structures, correlations and structure functions, density function theory, intermittency, wakes and jets, dissipation and decay, reflection, symmetry, vortex stretching, heat and scalar transport are some of the turbulence characteristics that were statistically observed and analyzed in this project and some of the findings are shared here.
+Turbulence intensity, energy cascade, Reynolds stress, velocity mean and standard deviation, coherent structures, correlations and structure functions, density function theory, intermittency, wakes and jets, dissipation and decay, reflection, symmetry, mixing and boundary layers, vortex stretching, heat and scalar transport are some of the turbulence characteristics that were statistically observed and analyzed in this project and some of the findings are shared here.
